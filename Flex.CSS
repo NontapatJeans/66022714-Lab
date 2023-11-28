@@ -1,0 +1,38 @@
+div{
+    margin: auto;
+}
+.body{
+    width: 100px;
+}
+
+.p1{
+    background-color: pink;
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+    width: 1000px;
+    font-style: italic;
+}
+.p2{
+    background-color: blueviolet;
+    text-align: center;
+    color: aliceblue;
+    height: 50px;
+    width: 1000px;
+    font-size: 25px;
+}
+.p3{
+    background-color: grey;
+    text-align: left;
+    color: aliceblue;
+    height: 550px;
+    width: 1000px;
+}
+.p4{
+    background-color:plum;
+    text-align: center;
+    height: 50px;
+    width: 1000px;
+    font-size: 50px;
+
+}
